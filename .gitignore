@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But track these files/folders:
+!.gitignore
+!src/App.tsx
+!src/components/timer.tsx
+!README.md
